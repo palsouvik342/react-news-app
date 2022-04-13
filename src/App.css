@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.card-img-top {
+
+  min-height: 250px;
+}
+.card-img-top {
+
+  max-height: 250px;
+}
+.col-md-4{
+  position: relative;
+}
+.badge{
+  transform: translate(-128%,30%)!important;
+  z-index: 2!important;
+  padding: 10px 23px;
+}
